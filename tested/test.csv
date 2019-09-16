@@ -1,0 +1,41 @@
+,id,name,number,transferred to hilda,reason for transfer,reason for transfer (2),provided_name,valid_number,summary,status_code,cost,status,message_id,message
+0,AC1269000,Amos,+265999383339,Yes,Good Customer,,Amos Muzana,True,101.0,101.0,101.0,101.0,101.0,saasdda
+1,AC1257190,Ndapita,+265999423886,Yes,Good Customer,,Ndapita Nangoza,True,101.0,101.0,101.0,101.0,101.0,saasdda
+2,AC1209588,Eliza,+265998462897,Yes,Good Customer,,Eliza Magwera,True,101.0,101.0,101.0,101.0,101.0,saasdda
+3,AC1206788,Amos,+265992474913,Yes,Good Customer,,Amos Phalazgani Wilikani,True,101.0,101.0,101.0,101.0,101.0,saasdda
+4,AC1193191,Ezikiel,+265999033224,Yes,Good Customer,,Ezikiel Sambakusi,True,101.0,101.0,101.0,101.0,101.0,saasdda
+5,AC1187964,Grace,+265995713889,Yes,Good Customer,,Grace Ndalami,True,101.0,101.0,101.0,101.0,101.0,saasdda
+6,AC1187925,Florence,+265999215120,Yes,Good Customer,,Florence Ndalami,True,101.0,101.0,101.0,101.0,101.0,saasdda
+7,AC1169957,Chikapa,+265999267254,Yes,Good Customer,,Chikapa Geoffrey,True,101.0,101.0,101.0,101.0,101.0,saasdda
+8,AC1148601,Paulo,+265995072630,Yes,Good Customer,,Paulo Josam Wakili,True,101.0,101.0,101.0,101.0,101.0,saasdda
+9,AC1111615,Aaron,+265998534322,Yes,Reposession,,Aaron Kambani,True,101.0,101.0,101.0,101.0,101.0,saasdda
+10,AC1041089,Zakeyo,+265998326839,Yes,Good Customer,,Zakeyo Msilayani,True,101.0,101.0,101.0,101.0,101.0,saasdda
+11,AC1034214,Stella,+265885533625,Yes,Techinical Call Out,,Stella Amisi,True,101.0,101.0,101.0,101.0,101.0,saasdda
+12,AC1033333,Leviton,+265994769,Yes,Good Customer,,Leviton Kanada,False,,,,,,saasdda
+13,AC1026155,Nelson,+660693,Yes,Collections Callout,Reposession,Nelson Kaposa,False,,,,,,saasdda
+14,AC1007148,Patrick,+265999190086,Yes,Good Customer,,Patrick Kamdidi Banda,True,101.0,101.0,101.0,101.0,101.0,saasdda
+15,AC951288,Lawrence,+265995923781,Yes,Good Customer,,Lawrence Jimu,True,101.0,101.0,101.0,101.0,101.0,saasdda
+16,AC940721,Malijeni,+265993254375,Yes,Contact Update,,Malijeni Chapana Paul,True,101.0,101.0,101.0,101.0,101.0,saasdda
+17,AC933744,John,+265995176699,Yes,Good Customer,,John Boseya,True,101.0,101.0,101.0,101.0,101.0,saasdda
+18,AC933329,David,+265999672850,Yes,Good Customer,,David Fabiano,True,101.0,101.0,101.0,101.0,101.0,saasdda
+19,AC911036,Kafera,+265995630850,Yes,Good Customer,,Kafera Kalanje Ziyaya,True,101.0,101.0,101.0,101.0,101.0,saasdda
+20,AC909774,Harry,+265888699991,Yes,Good Customer,,Harry Gelevazio,True,101.0,101.0,101.0,101.0,101.0,saasdda
+21,AC882011,Elube,+265995595923,Yes,Good Customer,,Elube Tambala,True,101.0,101.0,101.0,101.0,101.0,saasdda
+22,AC859330,Elizabeth,+265999789687,Yes,Reposession,,Elizabeth Nkhata,True,101.0,101.0,101.0,101.0,101.0,saasdda
+23,AC840169,Dorothy,+265996533257,Yes,Techinical Call Out,,Dorothy Dishoni,True,101.0,101.0,101.0,101.0,101.0,saasdda
+24,AC821779,Devison,+265882221056,Yes,Good Customer,,Devison Mthuzi,True,101.0,101.0,101.0,101.0,101.0,saasdda
+25,AC808995,Selinia,+265997447842,Yes,Good Customer,,Selinia Naliyeti Chapendeka,True,101.0,101.0,101.0,101.0,101.0,saasdda
+26,AC800458,Anthony,+265994272678,Yes,Good Customer,,Anthony Msakambewa,True,101.0,101.0,101.0,101.0,101.0,saasdda
+27,AC773853,Elise,+265888292866,Yes,Good Customer,,Elise Edwart,True,101.0,101.0,101.0,101.0,101.0,saasdda
+28,AC770321,Cyton,+265995713067,Yes,Good Customer,,Cyton Mlambe,True,101.0,101.0,101.0,101.0,101.0,saasdda
+29,AC761564,Jumpha,+265996945566,Yes,Contact Update,,Jumpha Yamikani Jaliel,True,101.0,101.0,101.0,101.0,101.0,saasdda
+30,AC739502,Chipata,+265996610233,Yes,Good Customer,,Chipata Fackson,True,101.0,101.0,101.0,101.0,101.0,saasdda
+31,AC731130,Mndala,+265998672192,Yes,Good Customer,,Mndala Osward Mtentha,True,101.0,101.0,101.0,101.0,101.0,saasdda
+32,AC730955,Joyce,+265995711458,Yes,Good Customer,,Joyce Biton ,True,101.0,101.0,101.0,101.0,101.0,saasdda
+33,AC728102,Evangelista,+265999556585,Yes,Good Customer,,Evangelista Mwale,True,101.0,101.0,101.0,101.0,101.0,saasdda
+34,AC710123,Tifele,+265995605474,Yes,Good Customer,,Tifele Chunga,True,101.0,101.0,101.0,101.0,101.0,saasdda
+35,AC629611,Esinta,+265991292366,Yes,Good Customer,,Esinta Elasimu,True,101.0,101.0,101.0,101.0,101.0,saasdda
+36,AC629267,Lawrence,+265884235123,Yes,Collections Callout,Reposession,Lawrence Charles ,True,101.0,101.0,101.0,101.0,101.0,saasdda
+37,AC624323,Chaula,+265996354941,Yes,Reposession,,Chaula Madalo,True,101.0,101.0,101.0,101.0,101.0,saasdda
+38,AC624167,Kabaya,+265995715272,Yes,Contact Update,Collections Callout,Kabaya Linda Fryson,True,101.0,101.0,101.0,101.0,101.0,saasdda
+39,AC621738,Onesimus,+265888621028,Yes,Good Customer,,Onesimus Ntchitakukhola,True,101.0,101.0,101.0,101.0,101.0,saasdda
